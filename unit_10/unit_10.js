@@ -428,3 +428,9 @@ function f20() {
 }
 
 document.querySelector('.b-20').onclick = f20;
+
+
+
+console.log(testWar);
+
+var testWar = 'test war';
