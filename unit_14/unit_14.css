@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.weather-block {
+    max-width: 120px;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.weather-block .weather-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.weather-block .weather-icon {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+.weather-block .weather-value {
+    font-size: 30px;
+}
